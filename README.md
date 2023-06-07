@@ -11,6 +11,8 @@
 ## Introduction
 This Java application utilizes MLKit and pretrained TensorFlow models to provide various computer vision capabilities, including face detection, pose detection, visitor analysis, face recognition, and options to hide/obscure faces. The application leverages the power of machine learning to enable advanced visual analysis and processing.
 
+[Click here](https://github.com/erogluegemen/Google-MLKit-Mobile-App/tree/main/readme_images/README.md) for preview.
+
 ## Features
 - <b>Face detection: The application can accurately detect and locate human faces in images and video streams.</b>
 - <b>Pose detection: It can determine the position and orientation of a person's body in images or videos.</b>
