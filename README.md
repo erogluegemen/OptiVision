@@ -1,4 +1,4 @@
-# Google MLKit Mobile App
+# OptiVision
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 - [Contributers](#contributers)
 
 ## Introduction
-This Java application utilizes MLKit and pretrained TensorFlow models to provide various computer vision capabilities, including face detection, pose detection, visitor analysis, face recognition, and options to hide/obscure faces. The application leverages the power of machine learning to enable advanced visual analysis and processing.
+OptiVision is a sophisticated Java application engineered to maximize the potential of MLKit and pretrained TensorFlow models. Seamlessly integrating advanced computer vision functionalities, including face detection, pose estimation, visitor analysis, and face recognition, OptiVision revolutionizes visual analysis and processing. With intuitive controls and privacy-conscious features like face obscuring, OptiVision empowers users to explore the depths of machine learning-driven insights with ease and confidence.
 
 [Click here](https://github.com/erogluegemen/Google-MLKit-Mobile-App/tree/main/readme_images/README.md) for preview.
 
